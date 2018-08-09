@@ -26,7 +26,7 @@ namespace Lab17
             {
                 if (index == i -1)
                 {
-                    Console.WriteLine(primeGenerator[index - 1]);
+                    Console.WriteLine($"The number {index} prime is {primeGenerator[index - 1]}");
                 }
             }
 
