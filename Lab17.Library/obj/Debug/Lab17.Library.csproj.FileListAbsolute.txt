@@ -4,3 +4,9 @@ C:\Users\Mozzey\GrandCircus\Labs\Lab17\Lab17.Library\obj\Debug\Lab17.Library.csp
 C:\Users\Mozzey\GrandCircus\Labs\Lab17\Lab17.Library\obj\Debug\Lab17.Library.dll
 C:\Users\Mozzey\GrandCircus\Labs\Lab17\Lab17.Library\obj\Debug\Lab17.Library.pdb
 C:\Users\Mozzey\GrandCircus\Labs\Lab17\Lab17.Library\obj\Debug\Lab17.Library.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Lab17\Lab17.Library\bin\Debug\Lab17.Library.dll
+C:\Users\Owner\Desktop\Lab17\Lab17.Library\bin\Debug\Lab17.Library.pdb
+C:\Users\Owner\Desktop\Lab17\Lab17.Library\obj\Debug\Lab17.Library.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Lab17\Lab17.Library\obj\Debug\Lab17.Library.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Lab17\Lab17.Library\obj\Debug\Lab17.Library.dll
+C:\Users\Owner\Desktop\Lab17\Lab17.Library\obj\Debug\Lab17.Library.pdb
