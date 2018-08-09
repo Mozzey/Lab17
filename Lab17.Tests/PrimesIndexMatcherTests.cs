@@ -50,5 +50,28 @@ namespace Lab17.Library.Tests
             // Assert
             Assert.AreEqual(prime, output);
         }
+        [TestCase("y")]
+        public void If_User_Wants_To_Run_Again_Should_Be_True(string x)
+        {
+            //assemble
+            var ans = RunProgram.PlayAgain(x);
+            //Act
+
+            
+            //Assert
+            Assert.IsTrue(ans);
+        }
+
+        [TestCase("n")]
+        public void If_User_Wants_To_Run_Again_Should_Be_False(string x)
+        {
+            //assemble
+            var ans = RunProgram.PlayAgain(x);
+            //Act
+
+
+            //Assert
+            Assert.IsFalse(ans);
+        }
     }
 }

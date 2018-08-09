@@ -8,3 +8,13 @@ C:\Users\Mozzey\GrandCircus\Labs\Lab17\Lab17\obj\Debug\Lab17.csprojAssemblyRefer
 C:\Users\Mozzey\GrandCircus\Labs\Lab17\Lab17\bin\Debug\Lab17.Library.dll
 C:\Users\Mozzey\GrandCircus\Labs\Lab17\Lab17\bin\Debug\Lab17.Library.pdb
 C:\Users\Mozzey\GrandCircus\Labs\Lab17\Lab17\obj\Debug\Lab17.csproj.CopyComplete
+C:\Users\Owner\Desktop\Lab17\Lab17\bin\Debug\Lab17.exe.config
+C:\Users\Owner\Desktop\Lab17\Lab17\bin\Debug\Lab17.exe
+C:\Users\Owner\Desktop\Lab17\Lab17\bin\Debug\Lab17.pdb
+C:\Users\Owner\Desktop\Lab17\Lab17\bin\Debug\Lab17.Library.dll
+C:\Users\Owner\Desktop\Lab17\Lab17\bin\Debug\Lab17.Library.pdb
+C:\Users\Owner\Desktop\Lab17\Lab17\obj\Debug\Lab17.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Lab17\Lab17\obj\Debug\Lab17.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Lab17\Lab17\obj\Debug\Lab17.csproj.CopyComplete
+C:\Users\Owner\Desktop\Lab17\Lab17\obj\Debug\Lab17.exe
+C:\Users\Owner\Desktop\Lab17\Lab17\obj\Debug\Lab17.pdb

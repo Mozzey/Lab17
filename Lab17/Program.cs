@@ -19,22 +19,28 @@ namespace Lab17
             Console.WriteLine("Let's locate some prime numbers!");
             Console.WriteLine();
             Console.WriteLine("This application will find you any prime, in order, from first prime number on.");
-            Console.Write("Which prime number are you looking for? ");
-            int index = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i < primeGenerator.Count; i++)
+            do
             {
-                if (index == i -1)
+                Console.Write("Which prime number are you looking for? \n");
+                int index = int.Parse(Console.ReadLine());
+
+                for (int i = 1; i < primeGenerator.Count; i++)
                 {
-                    Console.WriteLine($"The number {index} prime is {primeGenerator[index - 1]}");
+                    
+                    if (index == i - 1)
+                    {
+                        Console.WriteLine($"The number {index} prime is {primeGenerator[index - 1]}\n");
+                    }
                 }
-            }
-
-
+                Console.WriteLine("Would you like to lookup another prime number?");
+            } while (RunProgram.PlayAgain(Console.ReadLine()));
 
 
 
             Console.ReadKey();
         }
+
+        
     }
 }
